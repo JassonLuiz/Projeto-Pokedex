@@ -26,6 +26,7 @@
         color: #313131;
         font-size: 145%;
         margin-bottom: 0.5em 0 5px;
+        text-transform: capitalize;
     }
 
     &__types{
@@ -38,10 +39,9 @@
         line-height: 18px;
         max-width: 110px;
         width: 38.4375%;
-        float: left;
-        text-transform: none;
         font-size: 11px;
         text-align: center;
+        text-transform: capitalize;
 
         &--grass{
             background: #9bcc50;
